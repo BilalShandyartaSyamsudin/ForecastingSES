@@ -28,3 +28,4 @@ class AddDataController extends Controller
         return redirect('/dataPenjualan')->with('successAdd', 'Data penjualan telah disimpan');
     }
 }
+// 

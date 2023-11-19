@@ -11,7 +11,7 @@
                 <div class="mb-3">
                   <label for="bln_thn" class="form-label">Bulan Tahun</label>
                   <input type="text" class="form-control" id="bln_thn" name="bln_thn" required placeholder="Example: Agustus 2021"> 
-                  
+                  {{--  --}}
                 </div>
                 <div class="mb-3">
                   <label for="d_aktual" class="form-label">Penjualan</label>

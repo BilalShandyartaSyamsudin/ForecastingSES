@@ -36,7 +36,7 @@
         background-attachment: fixed; /* Membuat gambar tetap terlihat saat scrolling */
         background-color: #fff; /* Warna latar belakang cadangan jika gambar tidak tampil */
       }
-
+/*  */
       .login-container {
         display: flex;
         flex-direction: column;

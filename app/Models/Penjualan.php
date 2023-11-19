@@ -11,3 +11,4 @@ class Penjualan extends Model
     protected $table = 'penjualan';
     protected $fillable = ['id', 'bln_thn', 'd_aktual'];
 }
+// 

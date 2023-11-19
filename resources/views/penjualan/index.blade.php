@@ -16,7 +16,7 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-12">
-          <!-- Tambahkan Tombol Tambah Data -->
+          {{-- <!-- Tambahkan Tombol Tambah Data --> --}}
           <a href="/addData" class="btn btn-primary">Tambah Data</a>
           <br /><br /><!-- Tabel Data Penjualan -->
           <div class="table-responsive">

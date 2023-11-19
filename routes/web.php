@@ -7,7 +7,7 @@ use App\Http\Controllers\LoginController;
 use App\Http\Controllers\RegisterController;
 use App\Http\Controllers\AddDataController;
 use App\Http\Controllers\PenjualanController;
-
+// 
 /*
 |--------------------------------------------------------------------------
 | Web Routes

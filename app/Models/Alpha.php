@@ -11,3 +11,4 @@ class Alpha extends Model
     protected $table = 'alpha';
     protected $fillable = ['id', 'n_alpha'];
 }
+// 

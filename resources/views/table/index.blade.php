@@ -9,7 +9,7 @@
         <div class="col-md-12">
           <h2>Data Peramalan Penjualan Es Oyen</h2>
           <!-- Tambahkan Tombol Tambah Data Peramalan -->
-          
+          {{--  --}}
           
           <p>Alpha: {{ $alpha->n_alpha }}</p>
                     <form method="post" action="/alpha/update">

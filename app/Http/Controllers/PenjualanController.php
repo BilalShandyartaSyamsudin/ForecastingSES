@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use App\Models\Penjualan;
 use Illuminate\Http\Request;
 use App\Models\Alpha;
-
+// 
 class PenjualanController extends Controller
 {
     public function index(){
